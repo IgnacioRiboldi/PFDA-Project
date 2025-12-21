@@ -18,3 +18,9 @@ https://www.w3schools.com/python/matplotlib_bars.asp
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
 Group by bar chart:
 https://www.geeksforgeeks.org/python/create-a-grouped-bar-plot-in-matplotlib/
+
+Mean:
+https://www.datacamp.com/doc/numpy/mean
+
+Box plots:
+https://matplotlib.org/stable/gallery/statistics/boxplot_color.html
