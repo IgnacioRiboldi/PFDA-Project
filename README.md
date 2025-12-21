@@ -24,3 +24,9 @@ https://www.datacamp.com/doc/numpy/mean
 
 Box plots:
 https://matplotlib.org/stable/gallery/statistics/boxplot_color.html
+
+Wind barbs:
+https://matplotlib.org/stable/gallery/images_contours_and_fields/barb_demo.html
+
+Extra support:
+https://chatgpt.com/d
