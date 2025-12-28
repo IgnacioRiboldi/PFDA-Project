@@ -13,6 +13,12 @@ Pandas:
 https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
 errors = 'coerce' invalid parsing will be set as NaN.
 
+Pivot table with Pandas:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot_table.html
+
+Data Frame Reset:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html
+
 Bar charts:
 https://www.w3schools.com/python/matplotlib_bars.asp
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
